@@ -1,5 +1,6 @@
 # Polyrhythm Visualizer
 A simple tool made with pygame that can be used to visualize and listen to polyrhythms, with multiple customizable features.
+
 ![polylogo](https://github.com/user-attachments/assets/fc2644cb-3bc9-4c69-af6b-778e9f559d83)
 
 ## Features:
